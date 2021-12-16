@@ -1,2 +1,0 @@
-# Atatoken
-ATATOKEN Source Code
